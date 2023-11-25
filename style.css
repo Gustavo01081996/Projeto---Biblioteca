@@ -1,0 +1,11 @@
+div > form {
+    width: 100%;
+}
+
+table tr td{
+    vertical-align: middle;
+}
+
+td button{
+    margin: 5px;
+}
